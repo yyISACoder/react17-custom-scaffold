@@ -1,5 +1,5 @@
-import welcome from './components/welcome'
 import {HashRouter,Route,Switch} from 'react-router-dom'
+import welcome from './components/welcome'
 
 const App = ()=>{
   return (
